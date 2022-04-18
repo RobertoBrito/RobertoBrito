@@ -37,4 +37,4 @@ function dev(name, age, work) {
  
              
  
-![Snake animation](https://github.com/RobertoBrito/Roberto-Brito/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RobertoBrito/RobertoBrito/blob/output/github-contribution-grid-snake.svg)
