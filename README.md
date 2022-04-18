@@ -14,6 +14,7 @@ function dev(name, age, work) {
   <a href="https://github.com/RobertoBrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBrito&layout=compact&langs_count=7&theme=dracula"/>
+          </div>
 
    ## Main skills:
   
@@ -23,7 +24,6 @@ function dev(name, age, work) {
   ![Java](https://img.shields.io/badge/-Java-e152aa?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
 
  
-
 ### Tools:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
@@ -31,10 +31,12 @@ function dev(name, age, work) {
 ![GitHub](https://img.shields.io/badge/-GitHub-e152aa?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
 ##
     
-     <div>
-  <a href = "mailto:sdebroberto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/roberto-brito-de-oliveira-0b2892a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ <a href = "mailto:sdebroberto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/roberto-brito-de-oliveira-0b2892a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+             
+             
  
   ![Snake animation](https://github.com/RobertoBrito/RobertoBrito/blob/output/github-contribution-grid-snake.svg)
  
-</div>
